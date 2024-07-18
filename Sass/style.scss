@@ -1,0 +1,16 @@
+$color-red: red;
+$color-green: green;
+$color-white: #fff;
+$color-black: #000;
+
+body {
+    background-color: $color-red;
+
+    ul {
+        background-color: $color-green;
+
+        li {
+            color: #fff;
+        }
+    }
+}
